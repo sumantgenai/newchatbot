@@ -1,1 +1,3 @@
-# newchatbot
+create 
+
+.env file 
